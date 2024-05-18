@@ -1,0 +1,12 @@
+Backend Technologies used:
+1. Express
+2. Mongoose - To connect with the database
+3. json web token - to create the authentication system 
+4. bcrypt - to encrypt the user input and store in the database
+5. CORS - To give permission to front end to access the Backend
+6. donenv - to use the environmental variable in the project
+7. BodyParser - to pass the data coming through the user
+8. multer - we can create the image system
+9. Stripe - payment gateway 
+10. Validator - to validate the email and password
+11. Nodemon - to restart the server automatically 
